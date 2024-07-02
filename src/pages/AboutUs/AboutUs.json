@@ -1,0 +1,26 @@
+{
+  "aboutUs": {
+    "heading": "About Sencilla Consultancy Services",
+    "buttonRounded": false,
+    "description": "Our company specializes in developing cutting-edge software solutions that help businesses streamline their operations and increase their efficiency. Our team of experienced developers has the expertise to create customized software solutions that meet the specific needs of your business.",
+   "textOnLeft" :true
+  },
+  "solution": {
+    "heading": "The solution to all your technological needs!",
+    "buttonRounded": false,
+    "description": "Our software solutions are designed to be user-friendly, reliable, and scalable, which means that as your business grows, our software can grow with it. We use the latest technologies and programming languages to ensure that our software is fast, secure, and optimized for performance. Our software solutions are also backed by our exceptional customer support team. Our support team is available 24/7 to help you with any questions or concerns you may have. We understand the importance of your business operations, and we are committed to ensuring that our software is always running smoothly.",
+   "textOnLeft" :false
+  },
+  "partnering": {
+    "heading": "Partnering for Innovative Growth with Unwavering Support",
+    "buttonRounded": false,
+    "description": "Partnering with us means that you will have access to top-quality software solutions that can help you take your business to the next level. We are committed to building long-term relationships with our clients, and we take pride in our ability to provide exceptional customer service and support. So why wait? Contact us today to learn more about our software solutions and how we can help your business succeed!",
+    "textOnLeft" :true
+  },
+  "vision": {
+    "heading": "Our Vision",
+    "buttonRounded": false,
+    "description": "Whether you are a start-up or an experienced company in need of guidance, we are here for you. We embrace the open-source community, work with accountable partners, and passionately commit to our clients. We are open to rapid technological changes and our fighters always stay on top of leading IT trends that can give our clients a competitive edge. We are a team; Sencilla Consultancy Services can only succeed when you do too.",
+   "textOnLeft" :false
+  }
+}
